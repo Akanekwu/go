@@ -1,0 +1,21 @@
+body{
+    /* background-color: #c23f3f; */
+}
+
+input{
+    display: block;
+    /* line-height: 50px; */
+}
+
+label{
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 50px;
+}
+
+form{
+    position: fixed;
+    width: 200px;
+    right: 600px;
+    background-color: rgb(165, 185, 185);
+}
